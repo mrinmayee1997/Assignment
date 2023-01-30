@@ -1,0 +1,78 @@
+.main{
+	height:1000px;
+	width:1200px;
+	background-color:aqua;
+	margin:auto;
+}
+
+.header{
+	height:150px;
+	width:1200px;
+	background-color:yellow;
+	float:left;
+}
+.branding{
+	height:150px;
+	width:400px;
+	background-color:purple;
+	float:left;
+}
+
+.social{
+	height:75px;
+	width:800px;
+	background-color:pink;
+	float:left;
+}
+
+.menu{
+	height:75px;
+	width:800px;
+	background-color:red;
+	float:left;
+}
+
+.container{
+	height:550px;
+	width:1200px;
+	background-color:green;
+}
+
+.courses{
+	height:400px;
+	width:1200px;
+	background-color:blue;
+}
+
+.bootcamp{
+	height:400px;
+	width:300px;
+	background-color:orange;
+	float:left;
+}
+
+.cloud{
+	height:400px;
+	width:300px;
+	background-color:yellow;
+	float:left;
+}
+
+.machine{
+	height:400px;
+	width:300px;
+	background-color:orange;
+	float:left;
+}
+
+.DSA{
+	height:400px;
+	width:300px;
+	background-color:yellow;
+	float:left;
+}
+.footer{
+	height:50px;
+	width:1200px;
+	background-color:brown;
+}
